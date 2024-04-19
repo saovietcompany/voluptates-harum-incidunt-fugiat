@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@saovietcompany/voluptates-harum-incidunt-fugiat",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,38 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/saovietcompany/voluptates-harum-incidunt-fugiat.git"
   },
   "dependencies": {
+    "@saovietcompany/a-quod-pariatur-tempore": "^1.0.0",
+    "@saovietcompany/animi-adipisci-nesciunt-illo": "^1.0.0",
+    "@saovietcompany/commodi-commodi-ut-molestiae": "^1.0.0",
+    "@saovietcompany/doloremque-in-atque-ipsa": "^1.0.0",
+    "@saovietcompany/dolorum-quam-dolor-provident": "^1.0.0",
+    "@saovietcompany/ducimus-delectus-quia-exercitationem": "^1.0.0",
+    "@saovietcompany/eius-a-et-tempore": "^1.0.0",
+    "@saovietcompany/et-cumque-ab-accusantium": "^1.0.0",
+    "@saovietcompany/fugiat-magnam-sunt-labore": "^1.0.0",
+    "@saovietcompany/impedit-consequatur-illum-inventore": "^1.0.0",
+    "@saovietcompany/ipsum-enim-rem-esse": "^1.0.0",
+    "@saovietcompany/labore-nulla-animi-amet": "^1.0.0",
+    "@saovietcompany/laudantium-nostrum-doloremque-expedita": "^1.0.0",
+    "@saovietcompany/maxime-quibusdam-quod-voluptatum": "^1.0.0",
+    "@saovietcompany/provident-corrupti-laborum-voluptatibus": "^1.0.0",
+    "@saovietcompany/quos-sequi-tempora-repellendus": "^1.0.0",
+    "@saovietcompany/rem-expedita-adipisci-maxime": "^1.0.0",
+    "@saovietcompany/soluta-error-repellendus-voluptas": "^1.0.0",
+    "@saovietcompany/voluptates-nisi-ducimus-quasi": "^1.0.0",
+    "@saovietproject/et-exercitationem-eaque-minima": "^1.0.0",
+    "@saovietproject/facilis-sequi-excepturi-nihil": "^1.0.0",
+    "@saovietproject/iste-nesciunt-quae-libero": "^1.0.0",
+    "@saovietproject/modi-debitis-laboriosam-fugit": "^1.0.0",
+    "@saovietproject/natus-doloremque-reiciendis-laboriosam": "^1.0.0",
+    "@saovietproject/necessitatibus-explicabo-eveniet-a": "^1.0.0",
+    "@saovietproject/placeat-laboriosam-suscipit-atque": "^1.0.0",
+    "@saovietproject/quo-eaque-commodi-accusantium": "^1.0.0",
+    "@saovietproject/repellat-velit-aliquid-aut": "^1.0.0",
+    "@saovietproject/voluptas-doloremque-nostrum-facere": "^1.0.0",
+    "@saovietproject/voluptas-reiciendis-quo-cum": "^1.0.0"
   }
 }
